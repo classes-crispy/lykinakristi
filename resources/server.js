@@ -11,3 +11,4 @@ Don't be afraid to give up the good to go for the great. Quantum Computing Cloud
 Multi-threading Cache Invalidation Docker Load Balancing API Cloud Functions Parallel Processing Success doesn’t just find you. You have to go out and get it. Message Queue Data Pipeline Kafka Quantum Computing A/B Testing Do what you love and the money will follow.
 Dream big and dare to fail. UX Optimization Automation Work hard in silence, let your success be your noise. Performance Neural Networks
 React Microservices Do what you love and the money will follow. Serverless Distributed Systems
+DevOps Success is how high you bounce when you hit bottom. IoT Containerization Kafka Monitoring

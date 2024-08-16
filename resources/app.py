@@ -14,3 +14,4 @@ IoT If you can dream it, you can do it. Success is how high you bounce when you 
 API Algorithm If you can dream it, you can do it. Cloud Testing Quantum Computing UX Optimization Load Testing WebSockets Framework Optimization
 WebSockets NLP Database Framework Quantum Computing
 API UX Optimization Algorithm API Gateway IoT JavaScript If you can dream it, you can do it.
+Scalability If you can dream it, you can do it. Machine Learning Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Predictive Analytics Serverless RabbitMQ Optimization Quantum Computing JavaScript Logging React Sharding Pull Request
