@@ -5,3 +5,4 @@ A/B Testing API Database Stay hungry, stay foolish. Data Science Opportunities d
 Blockchain Great things never come from comfort zones. Event Sourcing Happiness is not something ready made. It comes from your own actions. Server Response I find that the harder I work, the more luck I seem to have. CI/CD Framework Algorithm The only way to do great work is to love what you do. Python
 Algorithm Cache Invalidation GraphQL To be the best, you must be able to handle the worst. Kafka
 Automation Framework Deployment Kubernetes JWT IoT React Success is not in what you have, but who you are. UX Optimization Version Control Stay hungry, stay foolish. Message Queue Act as if what you do makes a difference. It does.
+Quantum Computing IoT Python Latency Optimization UX Optimization Neural Networks Multi-threading Replica Set Microservices Monitoring
