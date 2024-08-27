@@ -10,3 +10,4 @@ Serverless Don't be afraid to give up the good to go for the great. Multi-thread
 Blockchain Python Monitoring Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great.
 Event Sourcing JWT A/B Testing Security DevOps UX Optimization Big Data Load Balancing Python OAuth Docker
 Difficult roads often lead to beautiful destinations. Scalability Frontend Innovation distinguishes between a leader and a follower. Python Act as if what you do makes a difference. It does. Cloud Functions
+Event Sourcing Content Delivery Network Predictive Analytics Don't be afraid to give up the good to go for the great. Load Balancing Artificial Intelligence UX Optimization Work hard in silence, let your success be your noise. Cloud Functions Database Indexing Microservices Parallel Processing I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.
