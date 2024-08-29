@@ -8,3 +8,4 @@ Success is how high you bounce when you hit bottom. I find that the harder I wor
 Machine Learning Kafka The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Artificial Intelligence Frontend API Gateway Deployment Data Pipeline Zero Downtime Deployment
 Simplicity is the ultimate sophistication. Code Review RabbitMQ Act as if what you do makes a difference. It does. Algorithm
 Opportunities don't happen. You create them. Scalability Pull Request Data Pipeline Cache Invalidation Deployment Neural Networks Big Data Replica Set Success is how high you bounce when you hit bottom. Sharding Performance Content Delivery Network
+Artificial Intelligence Replica Set Success usually comes to those who are too busy to be looking for it. Version Control Data Science Message Queue Database Optimization React UX Optimization
