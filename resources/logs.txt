@@ -6,3 +6,4 @@ Simplicity is the ultimate sophistication. Sharding Security DNS Routing API IoT
 Monitoring DevOps Work hard in silence, let your success be your noise. Automation DNS Routing Distributed Systems
 Containerization Load Testing Algorithm Python Testing NLP Success is not in what you have, but who you are. Lambda Functions Event-driven Architecture Performance DNS Routing
 Database Lambda Functions Python API Gateway Zero Downtime Deployment React Database Indexing
+Success usually comes to those who are too busy to be looking for it. Server Response JWT Testing Container Orchestration
