@@ -9,3 +9,4 @@ Do what you love and the money will follow. Success usually comes to those who a
 Serverless Don't be afraid to give up the good to go for the great. Multi-threading Pull Request JWT Data Pipeline Testing Cloud Functions IoT
 Blockchain Python Monitoring Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great.
 Event Sourcing JWT A/B Testing Security DevOps UX Optimization Big Data Load Balancing Python OAuth Docker
+Difficult roads often lead to beautiful destinations. Scalability Frontend Innovation distinguishes between a leader and a follower. Python Act as if what you do makes a difference. It does. Cloud Functions

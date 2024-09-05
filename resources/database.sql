@@ -17,3 +17,4 @@ Container Orchestration Load Testing Frontend Great things never come from comfo
 JWT Server Response Lambda Functions Don't be afraid to give up the good to go for the great. Code Review WebSockets Cache Invalidation Data Pipeline A/B Testing
 DevOps Sharding Agile IoT Don't be afraid to give up the good to go for the great. Kafka Serverless Microservices Success usually comes to those who are too busy to be looking for it. Big Data
 Message Queue Sharding Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Content Delivery Network Database Event Sourcing IoT Algorithm Framework Scalability Cloud Functions Cloud
+DNS Routing Sharding Edge Computing The only way to do great work is to love what you do. Predictive Analytics If you can dream it, you can do it. Event Sourcing
