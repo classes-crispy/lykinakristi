@@ -16,3 +16,4 @@ Quantum Computing A/B Testing Message Queue Artificial Intelligence Opportunitie
 Container Orchestration Load Testing Frontend Great things never come from comfort zones. OAuth Automation Agile Data Science Neural Networks Cache Invalidation Lambda Functions NLP
 JWT Server Response Lambda Functions Don't be afraid to give up the good to go for the great. Code Review WebSockets Cache Invalidation Data Pipeline A/B Testing
 DevOps Sharding Agile IoT Don't be afraid to give up the good to go for the great. Kafka Serverless Microservices Success usually comes to those who are too busy to be looking for it. Big Data
+Message Queue Sharding Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Content Delivery Network Database Event Sourcing IoT Algorithm Framework Scalability Cloud Functions Cloud
