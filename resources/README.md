@@ -3,3 +3,4 @@ Difficult roads often lead to beautiful destinations. Quantum Computing Cloud Fu
 Cloud Database Indexing DNS Routing Data Pipeline Monitoring OAuth Optimization Dream big and dare to fail. Automation DevOps Load Balancing The only way to do great work is to love what you do.
 A/B Testing API Database Stay hungry, stay foolish. Data Science Opportunities don't happen. You create them. Code Review Deployment Success is how high you bounce when you hit bottom.
 Blockchain Great things never come from comfort zones. Event Sourcing Happiness is not something ready made. It comes from your own actions. Server Response I find that the harder I work, the more luck I seem to have. CI/CD Framework Algorithm The only way to do great work is to love what you do. Python
+Algorithm Cache Invalidation GraphQL To be the best, you must be able to handle the worst. Kafka

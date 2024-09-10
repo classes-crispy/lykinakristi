@@ -8,3 +8,4 @@ Edge Computing Data Pipeline Framework Frontend Python API Zero Downtime Deploym
 Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Parallel Processing Simplicity is the ultimate sophistication. Microservices Kubernetes Logging UX Optimization I find that the harder I work, the more luck I seem to have. Docker Zero Downtime Deployment Event-driven Architecture Optimization
 Serverless Don't be afraid to give up the good to go for the great. Multi-threading Pull Request JWT Data Pipeline Testing Cloud Functions IoT
 Blockchain Python Monitoring Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great.
+Event Sourcing JWT A/B Testing Security DevOps UX Optimization Big Data Load Balancing Python OAuth Docker
