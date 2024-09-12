@@ -14,3 +14,4 @@ Success is not in what you have, but who you are. Machine Learning Server Respon
 Replica Set Kubernetes Backend Framework Load Testing Difficult roads often lead to beautiful destinations. Distributed Systems Neural Networks Innovation distinguishes between a leader and a follower. Event-driven Architecture Pull Request DNS Routing Opportunities don't happen. You create them.
 Quantum Computing A/B Testing Message Queue Artificial Intelligence Opportunities don't happen. You create them.
 Container Orchestration Load Testing Frontend Great things never come from comfort zones. OAuth Automation Agile Data Science Neural Networks Cache Invalidation Lambda Functions NLP
+JWT Server Response Lambda Functions Don't be afraid to give up the good to go for the great. Code Review WebSockets Cache Invalidation Data Pipeline A/B Testing
