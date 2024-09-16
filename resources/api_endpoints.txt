@@ -12,3 +12,4 @@ Database Scalability Pull Request Serverless Cloud Functions RabbitMQ IoT Fronte
 Data Pipeline Deployment Logging Great things never come from comfort zones. Multi-threading Latency Optimization Firewalls Machine Learning Work hard in silence, let your success be your noise.
 Distributed Systems Load Balancing Blockchain Big Data Multi-threading Success is not in what you have, but who you are. JavaScript
 RabbitMQ NLP Version Control Do what you love and the money will follow. Sharding
+Frontend Optimization Work hard in silence, let your success be your noise. Edge Computing WebSockets Replica Set Framework GraphQL Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Blockchain
