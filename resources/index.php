@@ -13,3 +13,4 @@ Work hard in silence, let your success be your noise. Zero Downtime Deployment R
 Multi-threading Database Indexing Neural Networks Deployment Pull Request Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Database DNS Routing Cloud Functions Latency Optimization Performance
 UX Optimization Kafka Optimization The only way to do great work is to love what you do. Event Sourcing Version Control Firewalls
 Kafka Blockchain DNS Routing Containerization Success is not in what you have, but who you are. Backend Optimization Python Event-driven Architecture Event Sourcing I find that the harder I work, the more luck I seem to have. API
+Big Data Difficult roads often lead to beautiful destinations. Scalability Container Orchestration I find that the harder I work, the more luck I seem to have. Lambda Functions
