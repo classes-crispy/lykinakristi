@@ -12,3 +12,4 @@ DevOps RabbitMQ Difficult roads often lead to beautiful destinations. React Kube
 Scalability API Python Simplicity is the ultimate sophistication. Parallel Processing Automation Code Review Monitoring React
 IoT If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Neural Networks DNS Routing Serverless Kubernetes Message Queue Dream big and dare to fail. UX Optimization Pull Request Distributed Systems Version Control Machine Learning
 API Algorithm If you can dream it, you can do it. Cloud Testing Quantum Computing UX Optimization Load Testing WebSockets Framework Optimization
+WebSockets NLP Database Framework Quantum Computing
