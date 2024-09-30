@@ -5,3 +5,4 @@ Act as if what you do makes a difference. It does. Testing Load Balancing Neural
 Database Indexing Scalability The only way to do great work is to love what you do. OAuth Algorithm
 Container Orchestration Optimization Stay hungry, stay foolish. OAuth WebSockets Success is how high you bounce when you hit bottom. NLP
 Great things never come from comfort zones. Opportunities don't happen. You create them. Parallel Processing API Work hard in silence, let your success be your noise.
+Success doesn’t just find you. You have to go out and get it. Microservices Parallel Processing Happiness is not something ready made. It comes from your own actions. Event-driven Architecture API Gateway Multi-threading Don't be afraid to give up the good to go for the great. Automation Do what you love and the money will follow. Load Testing

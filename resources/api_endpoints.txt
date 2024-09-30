@@ -10,3 +10,4 @@ If you can dream it, you can do it. Lambda Functions Load Testing Blockchain Do 
 Act as if what you do makes a difference. It does. Do what you love and the money will follow. Automation Parallel Processing DNS Routing
 Database Scalability Pull Request Serverless Cloud Functions RabbitMQ IoT Frontend
 Data Pipeline Deployment Logging Great things never come from comfort zones. Multi-threading Latency Optimization Firewalls Machine Learning Work hard in silence, let your success be your noise.
+Distributed Systems Load Balancing Blockchain Big Data Multi-threading Success is not in what you have, but who you are. JavaScript
