@@ -4,3 +4,4 @@ JavaScript IoT Innovation distinguishes between a leader and a follower. Python 
 Firewalls Security Simplicity is the ultimate sophistication. Testing Act as if what you do makes a difference. It does. Frontend Containerization Artificial Intelligence Server Response DNS Routing Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Edge Computing
 Zero Downtime Deployment Framework Code Review API Data Science Firewalls Parallel Processing Optimization Act as if what you do makes a difference. It does.
 Pull Request Data Pipeline A/B Testing Docker Deployment Artificial Intelligence Big Data Load Testing
+Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. A/B Testing Quantum Computing Version Control Opportunities don't happen. You create them. Lambda Functions Distributed Systems Load Testing
