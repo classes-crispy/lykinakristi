@@ -9,3 +9,4 @@ Kubernetes The only way to do great work is to love what you do. Success is not 
 If you can dream it, you can do it. Lambda Functions Load Testing Blockchain Do what you love and the money will follow. JavaScript React Data Pipeline Data Science Dream big and dare to fail. Latency Optimization Frontend
 Act as if what you do makes a difference. It does. Do what you love and the money will follow. Automation Parallel Processing DNS Routing
 Database Scalability Pull Request Serverless Cloud Functions RabbitMQ IoT Frontend
+Data Pipeline Deployment Logging Great things never come from comfort zones. Multi-threading Latency Optimization Firewalls Machine Learning Work hard in silence, let your success be your noise.
