@@ -8,3 +8,4 @@ Edge Computing CI/CD Success usually comes to those who are too busy to be looki
 Database Indexing Event Sourcing Load Balancing Deployment Logging API GraphQL Cloud Functions Testing Code Review Success is how high you bounce when you hit bottom. NLP Data Science Success usually comes to those who are too busy to be looking for it. Sharding
 Happiness is not something ready made. It comes from your own actions. Database Agile If you can dream it, you can do it. GraphQL
 Load Testing Don't be afraid to give up the good to go for the great. Kubernetes I find that the harder I work, the more luck I seem to have. Security Success is how high you bounce when you hit bottom. Version Control
+DevOps RabbitMQ Difficult roads often lead to beautiful destinations. React Kubernetes Containerization Backend
