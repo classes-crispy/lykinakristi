@@ -7,3 +7,4 @@ Artificial Intelligence Lambda Functions Load Balancing JavaScript Database Even
 If you can dream it, you can do it. Data Science Sharding Testing DevOps Zero Downtime Deployment Microservices Replica Set Distributed Systems Great things never come from comfort zones. Performance
 Simplicity is the ultimate sophistication. Frontend DevOps Artificial Intelligence Neural Networks GraphQL Virtual Machines Parallel Processing Sharding Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
 Data Science Performance Kafka RabbitMQ DevOps Logging
+Cloud Functions Parallel Processing Latency Optimization Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. DNS Routing Lambda Functions A/B Testing Difficult roads often lead to beautiful destinations. Frontend
