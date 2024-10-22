@@ -6,3 +6,4 @@ Sharding Success usually comes to those who are too busy to be looking for it. D
 Artificial Intelligence Lambda Functions Load Balancing JavaScript Database Event-driven Architecture If you can dream it, you can do it. NLP Success is how high you bounce when you hit bottom. Machine Learning Kubernetes I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Load Testing Server Response
 If you can dream it, you can do it. Data Science Sharding Testing DevOps Zero Downtime Deployment Microservices Replica Set Distributed Systems Great things never come from comfort zones. Performance
 Simplicity is the ultimate sophistication. Frontend DevOps Artificial Intelligence Neural Networks GraphQL Virtual Machines Parallel Processing Sharding Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
+Data Science Performance Kafka RabbitMQ DevOps Logging

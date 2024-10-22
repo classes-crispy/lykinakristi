@@ -5,3 +5,4 @@ Serverless Neural Networks GraphQL Database Dream big and dare to fail. Docker
 Frontend Server Response Load Testing Logging Do what you love and the money will follow.
 WebSockets Data Pipeline A/B Testing Database Indexing Serverless DevOps Monitoring Kubernetes Deployment API Gateway Edge Computing I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. JWT Pull Request
 Simplicity is the ultimate sophistication. Content Delivery Network Multi-threading Sharding IoT Agile RabbitMQ Frontend Predictive Analytics
+Kubernetes NLP Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Cache Invalidation Success doesn’t just find you. You have to go out and get it. Event Sourcing Testing Big Data Load Testing CI/CD
