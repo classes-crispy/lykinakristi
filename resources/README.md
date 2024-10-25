@@ -1,3 +1,4 @@
 Lambda Functions Success is not in what you have, but who you are. NLP Predictive Analytics Opportunities don't happen. You create them. Cache Invalidation Big Data Database Indexing Success doesn’t just find you. You have to go out and get it. OAuth DevOps CI/CD API Dream big and dare to fail. Frontend
 Difficult roads often lead to beautiful destinations. Quantum Computing Cloud Functions JavaScript Multi-threading Version Control Logging Innovation distinguishes between a leader and a follower. Latency Optimization Sharding
 Cloud Database Indexing DNS Routing Data Pipeline Monitoring OAuth Optimization Dream big and dare to fail. Automation DevOps Load Balancing The only way to do great work is to love what you do.
+A/B Testing API Database Stay hungry, stay foolish. Data Science Opportunities don't happen. You create them. Code Review Deployment Success is how high you bounce when you hit bottom.
