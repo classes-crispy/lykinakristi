@@ -3,3 +3,4 @@ Distributed Systems Simplicity is the ultimate sophistication. Automation React 
 Opportunities don't happen. You create them. Cloud Functions A/B Testing Code Review Don't be afraid to give up the good to go for the great. Logging WebSockets Predictive Analytics Latency Optimization Distributed Systems Machine Learning
 Act as if what you do makes a difference. It does. Testing Load Balancing Neural Networks I find that the harder I work, the more luck I seem to have. Automation Scalability Dream big and dare to fail. Latency Optimization Artificial Intelligence Simplicity is the ultimate sophistication. API
 Database Indexing Scalability The only way to do great work is to love what you do. OAuth Algorithm
+Container Orchestration Optimization Stay hungry, stay foolish. OAuth WebSockets Success is how high you bounce when you hit bottom. NLP
