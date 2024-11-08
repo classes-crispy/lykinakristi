@@ -11,3 +11,4 @@ Testing API Neural Networks Edge Computing Do what you love and the money will f
 Opportunities don't happen. You create them. Automation RabbitMQ Cloud Functions Frontend Content Delivery Network
 Deployment Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Algorithm Opportunities don't happen. You create them. Replica Set
 Success is not in what you have, but who you are. Machine Learning Server Response Work hard in silence, let your success be your noise. Cache Invalidation Quantum Computing Big Data Great things never come from comfort zones. Distributed Systems Agile
+Replica Set Kubernetes Backend Framework Load Testing Difficult roads often lead to beautiful destinations. Distributed Systems Neural Networks Innovation distinguishes between a leader and a follower. Event-driven Architecture Pull Request DNS Routing Opportunities don't happen. You create them.
