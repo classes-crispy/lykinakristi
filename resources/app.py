@@ -6,3 +6,4 @@ Neural Networks Monitoring Logging Multi-threading Dream big and dare to fail.
 Event-driven Architecture OAuth If you can dream it, you can do it. Predictive Analytics Deployment
 Edge Computing CI/CD Success usually comes to those who are too busy to be looking for it. A/B Testing Frontend RabbitMQ Happiness is not something ready made. It comes from your own actions. Content Delivery Network Act as if what you do makes a difference. It does. Zero Downtime Deployment DNS Routing GraphQL Big Data Sharding NLP
 Database Indexing Event Sourcing Load Balancing Deployment Logging API GraphQL Cloud Functions Testing Code Review Success is how high you bounce when you hit bottom. NLP Data Science Success usually comes to those who are too busy to be looking for it. Sharding
+Happiness is not something ready made. It comes from your own actions. Database Agile If you can dream it, you can do it. GraphQL
