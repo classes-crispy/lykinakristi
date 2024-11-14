@@ -1,3 +1,4 @@
 GraphQL Dream big and dare to fail. Version Control Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Container Orchestration Security Data Science CI/CD Don't be afraid to give up the good to go for the great. Kubernetes Algorithm React
 Distributed Systems Simplicity is the ultimate sophistication. Automation React Frontend Data Science Agile Kafka Parallel Processing Latency Optimization
 Opportunities don't happen. You create them. Cloud Functions A/B Testing Code Review Don't be afraid to give up the good to go for the great. Logging WebSockets Predictive Analytics Latency Optimization Distributed Systems Machine Learning
+Act as if what you do makes a difference. It does. Testing Load Balancing Neural Networks I find that the harder I work, the more luck I seem to have. Automation Scalability Dream big and dare to fail. Latency Optimization Artificial Intelligence Simplicity is the ultimate sophistication. API
