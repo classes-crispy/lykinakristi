@@ -7,3 +7,4 @@ Algorithm Dream big and dare to fail. Python Innovation distinguishes between a 
 Quantum Computing Artificial Intelligence Testing Distributed Systems Great things never come from comfort zones. Machine Learning
 GraphQL Algorithm Event-driven Architecture CI/CD Parallel Processing Success is not in what you have, but who you are. Do what you love and the money will follow. Multi-threading Zero Downtime Deployment Great things never come from comfort zones. Stay hungry, stay foolish. Distributed Systems Logging
 Neural Networks Cloud To be the best, you must be able to handle the worst. Automation RabbitMQ Success is how high you bounce when you hit bottom.
+Don't be afraid to give up the good to go for the great. Quantum Computing Cloud Artificial Intelligence Testing Security Machine Learning Performance OAuth Great things never come from comfort zones.
