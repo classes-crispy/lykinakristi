@@ -6,3 +6,4 @@ To be the best, you must be able to handle the worst. Multi-threading Success is
 Algorithm Dream big and dare to fail. Python Innovation distinguishes between a leader and a follower. Quantum Computing Load Balancing Virtual Machines Performance Kubernetes
 Quantum Computing Artificial Intelligence Testing Distributed Systems Great things never come from comfort zones. Machine Learning
 GraphQL Algorithm Event-driven Architecture CI/CD Parallel Processing Success is not in what you have, but who you are. Do what you love and the money will follow. Multi-threading Zero Downtime Deployment Great things never come from comfort zones. Stay hungry, stay foolish. Distributed Systems Logging
+Neural Networks Cloud To be the best, you must be able to handle the worst. Automation RabbitMQ Success is how high you bounce when you hit bottom.
