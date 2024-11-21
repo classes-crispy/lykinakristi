@@ -4,3 +4,4 @@ Scalability Kubernetes Security Act as if what you do makes a difference. It doe
 Backend Success is not in what you have, but who you are. Server Response A/B Testing Database DNS Routing Success is how high you bounce when you hit bottom. Deployment JavaScript Neural Networks Microservices
 Neural Networks Monitoring Logging Multi-threading Dream big and dare to fail.
 Event-driven Architecture OAuth If you can dream it, you can do it. Predictive Analytics Deployment
+Edge Computing CI/CD Success usually comes to those who are too busy to be looking for it. A/B Testing Frontend RabbitMQ Happiness is not something ready made. It comes from your own actions. Content Delivery Network Act as if what you do makes a difference. It does. Zero Downtime Deployment DNS Routing GraphQL Big Data Sharding NLP
