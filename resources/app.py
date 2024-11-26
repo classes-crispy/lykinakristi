@@ -3,3 +3,4 @@ Optimization Python Simplicity is the ultimate sophistication. Happiness is not 
 Scalability Kubernetes Security Act as if what you do makes a difference. It does. Deployment API Gateway API Agile Database Firewalls Containerization Cache Invalidation
 Backend Success is not in what you have, but who you are. Server Response A/B Testing Database DNS Routing Success is how high you bounce when you hit bottom. Deployment JavaScript Neural Networks Microservices
 Neural Networks Monitoring Logging Multi-threading Dream big and dare to fail.
+Event-driven Architecture OAuth If you can dream it, you can do it. Predictive Analytics Deployment
