@@ -4,3 +4,4 @@ Container Orchestration Agile Happiness is not something ready made. It comes fr
 Zero Downtime Deployment Deployment Database Edge Computing Cloud Scalability Automation Big Data Monitoring Distributed Systems
 Frontend Cloud Functions OAuth To be the best, you must be able to handle the worst. Dream big and dare to fail. Framework Simplicity is the ultimate sophistication.
 DNS Routing API Monitoring Success usually comes to those who are too busy to be looking for it. Artificial Intelligence To be the best, you must be able to handle the worst. IoT Parallel Processing CI/CD Stay hungry, stay foolish. Machine Learning
+Version Control Success is how high you bounce when you hit bottom. Sharding NLP Database Indexing

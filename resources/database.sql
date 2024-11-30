@@ -9,3 +9,4 @@ Difficult roads often lead to beautiful destinations. Docker Performance Data Pi
 If you can dream it, you can do it. The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Containerization Predictive Analytics A/B Testing Scalability
 Testing API Neural Networks Edge Computing Do what you love and the money will follow. NLP Latency Optimization Lambda Functions Scalability Great things never come from comfort zones.
 Opportunities don't happen. You create them. Automation RabbitMQ Cloud Functions Frontend Content Delivery Network
+Deployment Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Algorithm Opportunities don't happen. You create them. Replica Set
