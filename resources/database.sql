@@ -8,3 +8,4 @@ Deployment Monitoring Serverless JavaScript Parallel Processing If you can dream
 Difficult roads often lead to beautiful destinations. Docker Performance Data Pipeline React Agile A/B Testing Success usually comes to those who are too busy to be looking for it. Content Delivery Network API Work hard in silence, let your success be your noise. API Gateway Code Review Optimization
 If you can dream it, you can do it. The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Containerization Predictive Analytics A/B Testing Scalability
 Testing API Neural Networks Edge Computing Do what you love and the money will follow. NLP Latency Optimization Lambda Functions Scalability Great things never come from comfort zones.
+Opportunities don't happen. You create them. Automation RabbitMQ Cloud Functions Frontend Content Delivery Network
