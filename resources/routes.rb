@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. JavaScript Blockchain CI/C
 JavaScript IoT Innovation distinguishes between a leader and a follower. Python Testing Don't be afraid to give up the good to go for the great. Kafka Great things never come from comfort zones. Work hard in silence, let your success be your noise.
 Firewalls Security Simplicity is the ultimate sophistication. Testing Act as if what you do makes a difference. It does. Frontend Containerization Artificial Intelligence Server Response DNS Routing Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Edge Computing
 Zero Downtime Deployment Framework Code Review API Data Science Firewalls Parallel Processing Optimization Act as if what you do makes a difference. It does.
+Pull Request Data Pipeline A/B Testing Docker Deployment Artificial Intelligence Big Data Load Testing
