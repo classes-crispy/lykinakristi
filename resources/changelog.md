@@ -1,2 +1,3 @@
 Microservices Cloud Optimization Innovation distinguishes between a leader and a follower. Containerization Work hard in silence, let your success be your noise. Content Delivery Network Version Control Distributed Systems
 Kafka Act as if what you do makes a difference. It does. Code Review Content Delivery Network Opportunities don't happen. You create them.
+Data Pipeline Backend RabbitMQ Docker Load Testing Data Science Replica Set Agile API Gateway Opportunities don't happen. You create them.
