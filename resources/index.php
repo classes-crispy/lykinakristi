@@ -6,3 +6,4 @@ To be the best, you must be able to handle the worst. Backend Big Data Kubernete
 Success usually comes to those who are too busy to be looking for it. Cache Invalidation Latency Optimization Cloud Microservices Automation Event-driven Architecture Stay hungry, stay foolish. Performance Artificial Intelligence
 Serverless Optimization NLP Event-driven Architecture Containerization Server Response Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Replica Set Frontend
 Frontend Testing JavaScript Agile Replica Set Cloud Functions Act as if what you do makes a difference. It does. GraphQL Load Testing Backend Monitoring Performance
+Work hard in silence, let your success be your noise. Lambda Functions Virtual Machines Quantum Computing Container Orchestration Message Queue Cloud Functions DNS Routing Success usually comes to those who are too busy to be looking for it.
