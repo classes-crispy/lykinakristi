@@ -1,2 +1,3 @@
 Blockchain Cache Invalidation Dream big and dare to fail. WebSockets Kubernetes Event-driven Architecture The only way to do great work is to love what you do.
 Lambda Functions Content Delivery Network Pull Request IoT Serverless Zero Downtime Deployment
+Predictive Analytics Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Deployment Quantum Computing Monitoring API Gateway
