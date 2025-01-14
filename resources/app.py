@@ -1,1 +1,2 @@
 Security JWT Containerization Performance Backend GraphQL Multi-threading Data Pipeline Cloud Functions Testing Don't be afraid to give up the good to go for the great. Event Sourcing Deployment CI/CD
+Optimization Python Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Cache Invalidation Content Delivery Network Event Sourcing Sharding Virtual Machines
