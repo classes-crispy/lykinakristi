@@ -1,2 +1,3 @@
 Cloud Functions React DevOps Deployment Stay hungry, stay foolish. JavaScript Serverless Zero Downtime Deployment Latency Optimization Distributed Systems Edge Computing Blockchain Data Pipeline
 Database Indexing Cloud Functions Docker Event Sourcing Parallel Processing Dream big and dare to fail.
+I find that the harder I work, the more luck I seem to have. Database Event-driven Architecture Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Container Orchestration Artificial Intelligence The only way to do great work is to love what you do. OAuth
