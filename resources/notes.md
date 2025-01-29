@@ -1,0 +1,1 @@
+GraphQL Dream big and dare to fail. Version Control Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Container Orchestration Security Data Science CI/CD Don't be afraid to give up the good to go for the great. Kubernetes Algorithm React
