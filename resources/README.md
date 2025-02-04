@@ -1,0 +1,1 @@
+Lambda Functions Success is not in what you have, but who you are. NLP Predictive Analytics Opportunities don't happen. You create them. Cache Invalidation Big Data Database Indexing Success doesn’t just find you. You have to go out and get it. OAuth DevOps CI/CD API Dream big and dare to fail. Frontend
